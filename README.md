@@ -29,3 +29,10 @@ Strong correlation with clusters and purchasing frequency
 - pandas
 - matplotlib
 - scikit-learn
+
+### Skills Demonstrated 
+- Python
+- Scikit-learn
+- K-means
+- Data visualization
+- Unsupervised learning 
